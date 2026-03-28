@@ -27,7 +27,7 @@ This repository contains my Digital Literacy Portfolio as part of the CSE0001 co
 
 ## Links
 
-- 🔗 GitHub Profile: https://github.com/aniket25BAI11514
+- 🔗 GitHub Profile: https://github.com/aniket25bai11514
 - 🔗 LinkedIn: www.linkedin.com/in/aniketsahu2214
 - 🔗 Kaggle: https://www.kaggle.com/aniketsahu2208
 - 🔗 Google Form Quiz: https://forms.gle/FkWA24BGpz13x3Lq5
