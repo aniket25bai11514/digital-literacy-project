@@ -1,0 +1,27 @@
+# Email 2 - Expression of Interest in Summer Internship Opportunity
+
+---
+
+**To:** internships@[companyname].com  
+**Subject:** Application for Summer Internship - B.Tech CSE Student | AI/ML & Web Development  
+**Date:** [Date]
+
+---
+
+Dear Hiring / Internship Coordinator,
+
+I am Aniket Sahu, a first-year B.Tech student pursuing my degree in Artificial Intelligence and Machine Learning at VIT Bhopal University (Registration No.: [Reg. No.]). I am writing this email to express my keen interest in the summer internship opportunity at [Company Name].
+
+I have gained practical experience in Python, JavaScript, Node.js, and MERN Stack through various personal projects like developing a Human Live Emotion Detector using computer vision and a Weather Application. I am currently developing a Satellite Cybersecurity Dashboard called SatGuard using machine learning for anomaly detection. The project represents my interest in applying AI to solve real-world problems. I am also currently undergoing an internship in Shopify Development. The internship has helped me gain practical knowledge of the professional world of web development. I am eager to contribute my services to [Company Name] in the field of [Mention Company’s domain - e.g., software development, data analytics, AI/ML]. I believe my curiosity and willingness to learn will enable me to contribute to the organization. I look forward to the opportunity of contributing my services to [Company Name].
+
+I would like to thank you in advance for considering my application. I look forward to the opportunity of talking to you. I am available at your earliest convenience for a call/interview.
+
+Thank you once again. I look forward to the opportunity of contributing my services to [Company Name].
+
+Sincerely yours,
+Aniket Sahu  
+B.Tech CSE - AI/ML | First Year  
+VIT Bhopal University  
+Email: [Your College Email]  
+GitHub: github.com/aniketsahu007  
+LinkedIn: linkedin.com/in/[Your LinkedIn Handle]
